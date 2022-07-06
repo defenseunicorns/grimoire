@@ -1,0 +1,6 @@
+image.registry.com/path:
+  images:
+    imageOne:
+    - "1.0"
+    imageTwo:
+    - "0.1"
